@@ -1,0 +1,12 @@
+{
+  "name": "no-enums",
+  "version": "1.0.0",
+  "description": "Showing off enums don't work",
+  "main": "index.js",
+  "scripts": {
+
+  },
+  "author": "Nova Westlake",
+  "license": "UNLICENSED",
+  "workspaces": ["./packages/shared-lib", "./packages/server"]
+}
